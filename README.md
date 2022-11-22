@@ -1,6 +1,6 @@
 # Project-Management-Dashboard
 ### A Project Management and Timecard Dashboard built with Microsoft Power Suite
-####### Disclaimer: The Client (Permier Engineering Group) has given permission for this github repo to be made public. Their employee's and client's names have been removed for privacy.
+###### Disclaimer: The Client (Permier Engineering Group) has given permission for this github repo to be made public. Their employee's and client's names have been removed for privacy.
 
 ### Tools utilised:
     Microsoft Power Apps
