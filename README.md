@@ -2,10 +2,13 @@
 ### A Project Management and Timecard Dashboard built with Microsoft Power Suite
 
 ### Tools utilised:
-  Microsoft Power Apps
-  Microsoft Dataverse
-  Microsoft PowerAutomate
-  Microsoft Teams PowerBI Integration
+    Microsoft Power Apps
+    Microsoft Dataverse
+    Microsoft PowerAutomate
+    Microsoft Teams PowerBI Integration
+
+#### Work Flow
+The MS PowerApps app connects to Microsoft Dataverse, a propriety DBMS system that is integrated into the MS Power Suite. It is an SQL-like relational platform that allows for querrying, views, and security roles. The GUI run through PowerApps connects to custom relational tables hosted on Dataverse. Querries to Dataverse return dynamically updated results to the GUI in real-time any amount of users. This allows for multiple users to run the App through a seamless MS Teams interface, where Teams hosts the app run-time.
 
 ## Home Screen
 ![Home](https://user-images.githubusercontent.com/29099473/203421346-9fda6a82-8a79-46ca-8473-19793bf136cf.png)
