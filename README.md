@@ -7,8 +7,12 @@
     Microsoft PowerAutomate
     Microsoft Teams PowerBI Integration
 
+#### Scope of Project
+The Client wanted to move from Excel spreadsheets that tracked employee payroll to a more in-depth system where they could not only easily track payroll, but also track Project status, completion, and time-spent. This Dashboard provides the Client an easy way to have their employees enter time worked and view all relevant data from thoese punches. This dashboard offers a low-maintenance solution, low upkeep cost, and high customizability.
+
+
 #### Work Flow
-The MS PowerApps app connects to Microsoft Dataverse, a proprietary DBMS system that is integrated into the MS Power Suite. It is an SQL-like relational platform that allows for querrying, views, and security roles. The GUI run through PowerApps connects to custom relational tables hosted on Dataverse. Querries to Dataverse return dynamically updated results to the GUI in real-time any amount of users. This allows for multiple users to run the App through a seamless MS Teams interface, where Teams hosts the app run-time.
+The MS PowerApps app connects to Microsoft Dataverse, a proprietary DBMS system that is integrated into the MS Power Suite. It is an SQL-like relational platform that allows for querrying, views, and security roles. The GUI run through PowerApps connects to custom relational tables hosted on Dataverse. Querries to Dataverse return dynamically updated results to the GUI in real-time and to any amount of users. This allows for multiple users to run the App through a seamless MS Teams interface, where Teams hosts the app run-time.
 
 ## Home Screen
 ![Home](https://user-images.githubusercontent.com/29099473/203421346-9fda6a82-8a79-46ca-8473-19793bf136cf.png)
